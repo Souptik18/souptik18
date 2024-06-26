@@ -11,9 +11,8 @@
 
 ## 🌟 Projects & Contributions
 Here are a few projects I've worked on:
-- [Project 1](https://github.com/souptik18/project1)
-- [Project 2](https://github.com/souptik18/project2)
-- [Project 3](https://github.com/souptik18/project3)
+- [Project 1](https://fitness-app-souptik018.vercel.app/)
+- [Project 2](https://spotify-clone-git-main-souptik018.vercel.app/)
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
