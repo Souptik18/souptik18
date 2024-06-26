@@ -20,8 +20,7 @@ Here are a few projects I've worked on:
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-username)
-[![Twitter](https://img.shields.io/twitter/follow/your-twitter-username?style=social)](https://twitter.com/your-twitter-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/souptik22)
 [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square&logo=google-chrome)](https://www.souptik.in)
 
 ## 🧰 Languages and Tools
