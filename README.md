@@ -14,10 +14,6 @@ Here are a few projects I've worked on:
 - [Project 1](https://fitness-app-souptik018.vercel.app/)
 - [Project 2](https://spotify-clone-git-main-souptik018.vercel.app/)
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/souptik22)
 [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square&logo=google-chrome)](https://www.souptik.in)
