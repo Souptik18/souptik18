@@ -2,7 +2,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/souptik18?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/souptik18?label=Stars&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-username?label=Follow&style=social)
 ![Visitor Count](https://komarev.com/ghpvc/?username=souptik18)
 
 ## 🔧 Technologies & Tools
