@@ -7,7 +7,8 @@
 </h1>
 
 <!-- Typing SVG: change the lines -->
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=500&center=true&width=600&lines=Accelerating+AI+Innovations;Crafting+Scalable+MERN+Solutions;Empowering+Intelligent+Frontends" alt="Typing SVG" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2600&pause=600&center=true&width=600&lines=M.Tech+AI+%26+Data+Science+@+KIIT+%E2%80%94+Freelancing+impactful+projects;Collaborating+on+MERN+development;MS+Azure+Certified%3A+deploying+reliable+cloud+solutions" alt="Typing SVG" />
 </p>
 
 ---
