@@ -21,9 +21,6 @@
 
 - 🎓 *M.Tech* in AI & Data Science - _B.Tech_ CSE @ KIIT University.
 - 💻 Passionate about full-stack web development (MERN, React, Next.js) and AI integration.
-- 🔍 Currently exploring Model Serving, RAG pipelines, and AI-powered web apps.
-- 🎯 Driving toward career excellence: targeting AI/ML roles in top MNCs within next 5-6 months.
-- 🌱 Always learning: Deep Learning, Cloud (Azure/AWS), DevOps (Docker, Kubernetes), and productivity hacks.
 
 ---
 
