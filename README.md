@@ -8,6 +8,7 @@
 ---
 
 ### 🧠 About Me
+- 🎓 BTech in ELectronics with CSE @ KIIT
 - 🎓 MTech in AI & Data Science @ KIIT
 - 💻 Passionate Web Dev (MERN + Appwrite)
 - 🌱 Always learning new tech & AI
