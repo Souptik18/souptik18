@@ -72,6 +72,12 @@
 
 ---
 
+<!-- Visitor badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=souptiksarkar&style=flat-square&color=blue" alt="Profile Views" />
+</p>
+
+
 ## ⚡ Fun Facts
 
 - 🎮 When not coding, I enjoy quick brain-teasers and strategy games.
@@ -79,9 +85,5 @@
 
 ---
 
-<!-- Visitor badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=souptiksarkar&style=flat-square&color=blue" alt="Profile Views" />
-</p>
 
 
