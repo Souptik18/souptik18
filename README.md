@@ -42,18 +42,6 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge" />
 </p>
 
----
-
-## 🔭 Current Focus
-
-<ul>
-  <li>🚧 Building an AI-powered fitness/web app (React + FastAPI) with custom chatbots for exercise & nutrition recommendations.</li>
-  <li>📚 Deepening knowledge in model fine-tuning (LoRA/QLoRA), RAG, and LLM evaluation.</li>
-  <li>☁️ Preparing for Azure AI Engineer Associate & AWS certifications.</li>
-  <li>⚡ Optimizing daily routine: mental decluttering, productivity hacks, holistic well-being (acupressure, mindfulness).</li>
-</ul>
-
----
 
 ## 📂 Featured Projects
 
