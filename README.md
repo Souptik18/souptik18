@@ -43,55 +43,6 @@
 </p>
 
 
-## 📂 Featured Projects
-
-<!-- Example project cards with GIF previews; replace links and GIFs accordingly -->
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/souptiksarkar/fitness-app">
-        <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" alt="Fitness App Preview" width="200" /><br/>
-        <strong>AI Fitness App</strong>
-      </a>
-      <p>React + FastAPI + ML chatbot for workouts & diet.</p>
-    </td>
-    <td align="center">
-      <a href="https://github.com/souptiksarkar/rasa-mental-health-chatbot">
-        <img src="https://media.giphy.com/media/3orieW8XwXplCqJ7iE/giphy.gif" alt="Rasa Chatbot Preview" width="200" /><br/>
-        <strong>RASA Mental Health Bot</strong>
-      </a>
-      <p>Customized chatbot for student mental-health support.</p>
-    </td>
-    <td align="center">
-      <a href="https://github.com/souptiksarkar/web-scraper-selenium">
-        <img src="https://media.giphy.com/media/26AHG5KGFxSkUWw1i/giphy.gif" alt="Web Scraper Preview" width="200" /><br/>
-        <strong>Selenium Scraper</strong>
-      </a>
-      <p>Automated tag extraction with GUI interactions.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🎯 Goals & Plans
-
-- **Short-term (next 3 months)**:
-  - Complete Azure AI Engineer Associate certification.
-  - Deploy a stable AI-powered web app end-to-end.
-  - Contribute to 2-3 open-source AI/ML projects (bug fixes/features).
-  - Publish technical blog posts on RAG & model fine-tuning.
-- **Mid-term (6 months)**:
-  - Secure internship/full-time AI/ML role or freelance projects in AI integration.
-  - Build a personal brand: LinkedIn articles, community talks on AI.
-  - Optimize portfolio: polished case studies of projects with quantitative impact.
-- **Long-term**:
-  - Establish “Alignedbytex” AI consultancy: scalable AI solutions for small businesses.
-  - Explore research contributions: publish a paper or blog series on efficient fine-tuning.
-  - Build passive income streams: digital products (e.g., AI-based tools), courses, SaaS.
-
----
-
 ## 💬 Connect with Me
 
 <p align="center">
@@ -123,10 +74,8 @@
 
 ## ⚡ Fun Facts
 
-- 🔭 I love exploring new dance forms (Odissi, Bharatanatyam) in spare time.
 - 🎮 When not coding, I enjoy quick brain-teasers and strategy games.
 - ☕ Big fan of black coffee & mindful breaks to recharge.
-- 🌏 Based in India, optimizing routines for maximum productivity and well-being.
 
 ---
 
