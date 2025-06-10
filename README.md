@@ -84,7 +84,4 @@
   <img src="https://komarev.com/ghpvc/?username=souptiksarkar&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
-<!-- Footer Wave Animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/5xtDarqlsEWXG6aogAo/giphy.gif" alt="Footer Wave" width="100%" />
-</p>
+
