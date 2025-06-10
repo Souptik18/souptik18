@@ -1,8 +1,6 @@
 
 <!-- Banner (replace the URL with your own hosted GIF or use a free GIF) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Animated Banner" width="100%" />
-</p>
+
 
 <h1 align="center">
   Hey there! 👋 I'm <b>Souptik Sarkar</b>
