@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-- 🎓 *M.Tech* in AI & Data Science - _B.Tech_ CSE @ KIIT University.
+- 🎓 [ *M.Tech* in AI & Data Science - _B.Tech_ CSE ] @ KIIT University.
 - 💻 Passionate about full-stack web development (MERN, React, Next.js) and AI integration.
 
 ---
